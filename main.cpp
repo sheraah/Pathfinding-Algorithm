@@ -163,7 +163,7 @@ void update()
 		}
 	}
 
-	if (NeedsToBeUpdated) { AStartAlg(); NeedsToBeUpdated = false; }
+	if (NeedsToBeUpdated) { AStarAlg(); NeedsToBeUpdated = false; }
 }
 
 
