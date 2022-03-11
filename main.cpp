@@ -77,7 +77,7 @@ void init()
 }
 
 
-void AStartAlg()
+void AStarAlg()
 {
 	for (int y = 0; y < CollumsY; y++)
 		for (int x = 0; x < CollumsX; x++)
